@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-VP03ICL.Practica02Destino.sa"
+  DTS:DTSID="{CEF9CFCC-2074-4659-91E8-B633FB8BBD55}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-VP03ICL;User ID=sa;Initial Catalog=Practica02Destino;Encrypt=False;Application Name=SSIS-Practica02Integracion-{CEF9CFCC-2074-4659-91E8-B633FB8BBD55}DESKTOP-VP03ICL.Practica02Destino.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA73x3BkJnL0u/IAGAoHLvKAAAAAACAAAAAAAQZgAAAAEAACAAAACPe/YWEEGA8dvBukh8MoPru6fhlD2VtryBwASrDXMiLwAAAAAOgAAAAAIAACAAAAB8wLfayH2mRp/R4CnQzLnw4tBj3dLaVBoKRaIHo/5PyIAAAACzf7YmJX/+ZTWbx2ENVtem1fUgWssUDs3Ik//G5LvbwbmktRiX4HxxIErBmw3bW96ER/+YB7UWq6HQiLAlgrxlaSlegF0nIxayvFNCgPCmGbVBYIw3rSf5ZZKJgDSMmndrIdWrIXRLevxJgNGR01+un+PhA+9ccsVb6I4RBPC2M0AAAAA1K7PexkMPcVLFu54GVTmsvqnsAJfJpRf3rShYW740EQTdpBfehy5s1KaInpbyXa87cUiu/IUF41zXjyPZwN4a</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
